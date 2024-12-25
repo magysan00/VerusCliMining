@@ -6,7 +6,7 @@
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover1",
+		"name": "huawei1",
         	"url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	},
