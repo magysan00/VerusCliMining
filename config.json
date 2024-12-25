@@ -7,12 +7,12 @@
 	},
 	{
 		"name": "huawei1",
-        	"url": "stratum+tcp://eu.luckpool.net:3956",
+        	"url": "eu.luckpool.net:3956",
 		"timeout": 150
 	},
 	{
 		"name": "edge2",
-        	"url": "verus.farm:9998",
+        	"url": "eu.luckpool.net:3960",
 		"timeout": 150
 	}
 	],
