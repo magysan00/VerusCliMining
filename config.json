@@ -1,7 +1,7 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
+		"name": "edge",
         	"url": "eu.luckpool.net:3960",
 		"timeout": 150
 	},
@@ -11,7 +11,7 @@
 		"timeout": 150
 	},
 	{
-		"name": "LuckPoolFailover2",
+		"name": "edge2",
         	"url": "eu.luckpool.net:3960",
 		"timeout": 150
 	}
