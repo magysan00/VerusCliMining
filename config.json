@@ -2,17 +2,17 @@
 	"pools":[
 	{
 		"name": "edge",
-        	"url": "eu.luckpool.net:3960",
+        	"url": "verus.farm:9998",
 		"timeout": 150
 	},
 	{
 		"name": "huawei1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+        	"url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150
 	},
 	{
 		"name": "edge2",
-        	"url": "eu.luckpool.net:3960",
+        	"url": "verus.farm:9998",
 		"timeout": 150
 	}
 	],
